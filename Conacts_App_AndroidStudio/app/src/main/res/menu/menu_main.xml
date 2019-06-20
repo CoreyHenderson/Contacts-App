@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.domain.corey.assignment1_contactsapp.MainActivity">
+
+    <item
+        android:id="@+id/action_block"
+        android:orderInCategory="100"
+        android:title="@string/action_block"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_importOrExport"
+        android:orderInCategory="100"
+        android:title="@string/action_importOrExport"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="100"
+        android:title="@string/action_help"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_deleteAll"
+        android:orderInCategory="100"
+        android:title="@string/action_deleteAll"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:iconTint="@color/colorAccent"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+</menu>
