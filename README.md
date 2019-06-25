@@ -1,4 +1,4 @@
-# Contacts-App
+# Contacts App
 Simple contacts mobile app for creating, editing, deleting or searching users contacts.
 
 <img src="https://i.imgur.com/7B0b8FC.png" height="400">                                   <img src="https://i.imgur.com/uBeOIS4.png" height="400">                                   <img src="https://i.imgur.com/K7btspn.png" height="400">
